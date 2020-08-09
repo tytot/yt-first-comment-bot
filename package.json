@@ -1,0 +1,22 @@
+{
+  "name": "yt-first-comment-bot",
+  "version": "1.0.0",
+  "description": "Posts the first comment on new Youtube videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tytot/yt-first-comment-bot.git"
+  },
+  "author": "Tyler Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tytot/yt-first-comment-bot/issues"
+  },
+  "homepage": "https://github.com/tytot/yt-first-comment-bot#readme",
+  "dependencies": {
+    "pubsubhubbub": "^1.0.1"
+  }
+}
